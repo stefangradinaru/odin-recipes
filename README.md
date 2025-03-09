@@ -1,9 +1,10 @@
 # odin-recipes
-Acest proiect are un fisier index.html, unde avem  3 linkuri, fiecare cu cate o reteta.
-De asemenea fiecare link duce catre unul din cele trei fisiere cu retete(tot de tip html) create in folderul "recipes"(folder care face parte din proiectul "odin-recipes")
-Cele trei fisiere se numesc "shawarma.html" , "beefStew.html" si "potatoesAndZucchini.html"
-Fiecare fisier are: - un titlu cu reteta specifica;
-                    - o imagine cu reteta;
-                    - o descriere scurta a retetei;
-                    - ingredientele necesare si gramajele;
-                    - pasii necesari pentru a face preparatul.
+This project has an index.html file, where we have 3 links, each with a recipe.
+Also, each link leads to one of the three recipe files (also html type) created in the "recipes" folder (folder that is part of the "odin-recipes" project)
+The three files are called "shawarma.html", "beefStew.html" and "potatoesAndZucchini.html"
+Each file has: 
+- a title with the specific recipe;
+- an image with the recipe;
+- a short description of the recipe;
+- the necessary ingredients and weights;
+- the steps needed to make the dish.
